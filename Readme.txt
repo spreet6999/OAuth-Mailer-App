@@ -1,4 +1,4 @@
-##This is the Backend app to consime Gmail REST APIs without using any client Library
+##This is the Backend app to consume Gmail REST APIs without using any client Library
 
 ##Here is the procedure to run this project:
 
